@@ -1,0 +1,6 @@
+{
+  "name": "Cadence Workforce",
+  "description": "Real-time company workforce, department staffing gap tracker, and recruitment pipeline platform with role-based access control.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
